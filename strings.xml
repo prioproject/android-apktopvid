@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Covid19</string>
+    <string name="topvid">TOPVID</string>
+    <string name="aplikasi_edukasi_kesehatan">Aplikasi Edukasi Kesehatan</string>
+    <string name="info_covid_19">INFO COVID-19</string>
+    <string name="service">SERVICE</string>
+    <string name="tentang">TENTANG</string>
+    <string name="nama"> 1. Fajar triyanto\n
+2. Afiv Achmad. S  \n
+3. Apri Wibowo    \n
+4. Patra Prayuda  \n
+5. Qunita Nurul MA \n
+6. Eka Lutvitasari \n
+7. Niko Prasetiyo  \n
+8. Agung Setiadi  \n
+9. Tri Priyono    </string>
+    <string name="nim"> 13180141\n
+13180031\n
+13180136\n
+13180338\n
+13180926\n
+13181112\n
+13180086\n
+13180536\n
+13180344</string>
+
+
+</resources>
+
